@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #00000000;
-  stroke: rgb(225, 228, 232);
+  stroke: #8B8B8B22;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -27,8 +27,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: rgb(72, 148, 224);
+  fill: rgb(72, 148, 224);
 }
 
 ul {
@@ -87,7 +87,7 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: rgb(88, 96, 105)
 }
 
 .percent {
