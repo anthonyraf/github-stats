@@ -9,8 +9,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: #00000000;
-  stroke: #8B8B8B22;
+  fill: white;
+  stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -31,9 +31,9 @@ th {
   padding: 0.5em;
   padding-top: 0;
   text-align: left;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  color: #0d1117;
 }
 
 td {
